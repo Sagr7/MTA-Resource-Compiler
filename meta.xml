@@ -1,0 +1,12 @@
+<meta>
+	<info
+		author="Overlord"
+		version="1.0.0"
+		name="Overlord's resource compiler"
+		description="An automated resource compiler via luac.mtasa.com"
+		type="script"
+	/>
+	
+	<oop>true</oop>
+	<script src="server.lua" />
+</meta>
